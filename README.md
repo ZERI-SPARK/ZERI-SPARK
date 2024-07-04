@@ -25,7 +25,7 @@
 
 ###
 
-<p align="left">My Portfolio:- https://kartikeysingh-portfolio.netlify.app/<br>I am a Software Engineer from India.<br><br>🔭 I’m working as a Software Engineer and contributing to frontend and backend for building web applications.<br>🌱 Exploring Technical Content Writing.<br>🌱 I’m currently learning Cyber Security and MERN Stack <br>📫 How to reach me: < herf kartikeysingh907@gmail.com /><br>📫 How to reach me:   <a href="www.linkedin.com/in/kartikeysingh907">LinkedIn </a> Badge</p>
+<p align="left">My Portfolio:- https://kartikeysingh-portfolio.netlify.app/<br>I am a Software Engineer from India.<br><br>🔭 I’m working as a Software Engineer and contributing to frontend and backend for building web applications.<br>🌱 Exploring Technical Content Writing.<br>🌱 I’m currently learning Cyber Security and MERN Stack <br>📫 How to reach me: <a herf="">kartikeysingh907@gmail.com</a><br>📫 How to reach me:   <a href="www.linkedin.com/in/kartikeysingh907">LinkedIn </a> Badge</p>
 
 ###
 
