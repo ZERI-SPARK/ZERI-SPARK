@@ -17,7 +17,8 @@
 
 ###
 
-<h1 align="center">hey there 👋</h1>
+<h1 align="center">hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
+<p align="center"><img src="https://raw.githubusercontent.com/SP-XD/SP-XD/main/images/dev-working_rounded.gif" width="600" height="300"  /></p>
 
 ###
 
@@ -25,7 +26,7 @@
 
 ###
 
-<p align="left">My Portfolio:- https://kartikeysingh-portfolio.netlify.app/<br>I am a Software Engineer from India.<br><br>🔭 I’m working as a Software Engineer and contributing to frontend and backend for building web applications.<br>🌱 Exploring Technical Content Writing.<br>🌱 I’m currently learning Cyber Security and MERN Stack <br>📫 How to reach me: <a herf="">kartikeysingh907@gmail.com</a><br>📫 How to reach me:   <a href="www.linkedin.com/in/kartikeysingh907">LinkedIn </a> Badge</p>
+<p align="left">My Portfolio:- https://kartikeysingh-portfolio.netlify.app/<br>I am a Software Engineer from India.<br><br>🔭 I’m working as a Software Engineer and contributing to frontend and backend for building web applications.<br>🌱 Exploring Technical Content Writing.<br>🌱 I’m currently learning Cyber Security and MERN Stack <br>📫 How to reach me: <a herf="">kartikeysingh907@gmail.com</a><br>📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kartikeysingh907) </p>
 
 ###
 
