@@ -26,7 +26,16 @@
 
 ###
 
-My Portfolio:- https://kartikeysingh-portfolio.netlify.app/<br>I am a Software Engineer from India.<br><br>🔭 I’m working as a Software Engineer and contributing to frontend and backend for building web applications.<br>🌱 Exploring Technical Content Writing.<br>🌱 I’m currently learning Cyber Security and MERN Stack <br>📫 How to reach me: <a herf="">kartikeysingh907@gmail.com</a><br>📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kartikeysingh907/)
+My Portfolio:- https://kartikeysingh-portfolio.netlify.app/<br>I am a Software Engineer from India.<br><br>🔭 I’m working as a Software Engineer and contributing to frontend and backend for building web applications.<br>🌱 Exploring Technical Content Writing.<br>🌱 I’m currently learning Cyber Security and MERN Stack <br>📫 <!-- How to reach me: <a herf="">kartikeysingh907@gmail.com</a><br>📫 
+How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kartikeysingh907/) -->
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/kartikeysingh907" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kartikeysingh907" height="30" width="40" /></a>
+<!--<a href="https://instagram.com/suyal_19" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="suyal_19" height="30" width="40" /></a> -->
+<a href="https://www.leetcode.com/u/kartikeysingh907/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="kartikeysingh907" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/kartikeysingh907" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="kartikeysingh907" height="30" width="40" /></a>
+</p>
 
 ###
 
