@@ -78,6 +78,13 @@ My Portfolio:- https://kartikeysingh-portfolio.netlify.app/<br>I am a Software E
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="tensorflow logo"  />
 </div>
 
+### Github Status
+<br clear="both">
+
+<img src="https://github.com/suyalneeraj19/suyalneeraj19/blob/output/snake.svg" />
+---
+
+
 ###
 <!--
 **ZERI-SPARK/ZERI-SPARK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
