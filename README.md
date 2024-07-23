@@ -91,6 +91,13 @@ My Portfolio:- https://kartikeysingh-portfolio.netlify.app/<br>I am a Software E
 <br clear="both">
 
 <img src="https://github.com/ZERI-SPARK/ZERI-SPARK/blob/output/snake.svg" />
+
+---
+
+### Code Status
+<br clear="both">
+
+<img src="https://www.geeksforgeeks.org/user/kartikeysingh907/blob/output/snake.svg" />
 ---
 
 
