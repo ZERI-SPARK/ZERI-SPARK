@@ -94,11 +94,6 @@ My Portfolio:- https://kartikeysingh-portfolio.netlify.app/<br>I am a Software E
 
 ---
 
-### Code Status
-<br clear="both">
-
-<img src="https://www.geeksforgeeks.org/user/kartikeysingh907/blob/output/snake.svg" />
----
 
 
 ###
