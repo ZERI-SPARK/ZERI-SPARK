@@ -81,7 +81,7 @@ My Portfolio:- https://kartikeysingh-portfolio.netlify.app/<br>I am a Software E
 ### Github Status
 <br clear="both">
 
-<img src="https://github.com/suyalneeraj19/suyalneeraj19/blob/output/snake.svg" />
+<img src="https://github.com/ZERI-SPARK/ZERI-SPARK/blob/output/snake.svg" />
 ---
 
 
