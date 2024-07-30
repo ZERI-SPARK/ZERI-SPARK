@@ -26,7 +26,7 @@
 
 ###
 
-My Portfolio:- https://kartikeysingh-portfolio.netlify.app/<br>I am a Software Engineer from India.<br><br>🔭 I’m working as a Software Engineer and contributing to frontend and backend for building web applications.<br>🌱 Exploring Technical Content Writing.<br>🌱 I’m currently learning Cyber Security and MERN Stack <br>📫 How to reach me: <a herf="">kartikeysingh907@gmail.com</a><br> 
+My Portfolio:- https://kartikeysingh907.netlify.app/<br>I am a Software Engineer from India.<br><br>🔭 I’m working as a Software Engineer and contributing to frontend and backend for building web applications.<br>🌱 Exploring Technical Content Writing.<br>🌱 I’m currently learning Cyber Security and MERN Stack <br>📫 How to reach me: <a herf="">kartikeysingh907@gmail.com</a><br> 
 <!-- How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kartikeysingh907/) -->
 
 <h3 align="left">Connect with me:</h3>
