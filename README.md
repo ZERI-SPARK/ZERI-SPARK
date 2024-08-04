@@ -86,7 +86,7 @@ My Portfolio:- https://kartikeysingh907.netlify.app/<br>I am a Software Engineer
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="tensorflow logo"  />
 </div>
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ZERI-SPARK&" alt="ZERI-SPARK" /></p>
 ### Github Status
 <br clear="both">
 
