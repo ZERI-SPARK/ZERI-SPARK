@@ -17,7 +17,7 @@
 
 ###
 
-<h1 align="center">hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
+<h1 align="center">Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
 <p align="center"><img src="https://raw.githubusercontent.com/SP-XD/SP-XD/main/images/dev-working_rounded.gif" width="600" height="300"  /></p>
 
 ###
@@ -92,9 +92,11 @@ My Portfolio:- https://kartikeysingh907.netlify.app/<br>I am a Software Engineer
 
 <br clear="both">
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=ZERI-SPARK&" alt="ZERI-SPARK" /></p>
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=ZERI-SPARK&show_icons=true&locale=en&layout=compact" alt="ZERI-SPARK" /></p>
 
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com?user=ZERI-SPARK&theme=tokyonight&hide_border=true" alt="ZERI-SPARK" /></p>
+
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=ZERI-SPARK&show_icons=true&locale=en&layout=compact" alt="ZERI-SPARK" /></p> 
+<!--<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=ZERI-SPARK&theme=tokyonigh&show_icons=true&locale=en&layout=compact" alt="ZERI-SPARK" /></p>-->
 <br clear="both">
 
 ### Github Contributions Status
